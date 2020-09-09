@@ -21,5 +21,4 @@ def my_var():
     return
 
 if __name__ == '__main__':
-
     my_var()
